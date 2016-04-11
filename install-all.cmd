@@ -1,0 +1,1 @@
+npm install webpack webpack-dev-server babel-loader babel-core babel-preset-es2015 babel-preset-react babel-preset-stage-0 babel-plugin-transform-decorators-legacy style-loader css-loader less-loader less react react-dom redux react-redux redux-saga classnames immutable regenerator file-loader jasmine --save
